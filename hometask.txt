@@ -1,0 +1,5 @@
+Ветка локального репозитория master и ветка удалённого репозитория demo в конечном итоге ничем не отличаются
+3 коммита в ветку мастер:
+1) Merge branch 'boots_buttons'
+2) Merge remote-tracking branch 'origin/hat'
+3) Count commits
